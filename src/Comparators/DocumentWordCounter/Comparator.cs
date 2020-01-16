@@ -32,6 +32,7 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
         
         /// <summary>
         /// Counts how many words and how many times appears within each document, and checks the matching percentage.
+        /// Commit Adrián
         /// </summary>
         /// <returns>The matching's results.</returns>
         public override ComparatorMatchingScore Run(){
